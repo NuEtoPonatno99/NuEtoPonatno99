@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- Блок 1: light-pretti -->
+<img src="./light-pretti.gif" align="left" width="550" /> 
+<!-- Добавлена ваша гифка animation.gif -->
+<img src="./cooltext512191465121036.gif" height="80" />
 
-<!--
-**NuEtoPonatno99/NuEtoPonatno99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="left"/><br/>
 
-Here are some ideas to get you started:
+<!-- Блок 2: lucy-bedroque-lucy -->
+<img src="./lucy-bedroque-lucy.gif" align="left" width="550" /> 
+<img src="./cooltext512192630859339.gif" height="80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="left"/><br/>
+
+<!-- Блок 3: lil-uzi -->
+<img src="./lil-uzi.gif" align="left" width="550" /> 
+<img src="./cooltext512192677343640.gif" height="80" />
+
+<br clear="left"/><br/>
+
+<!-- Блок 4: pretti-prettifun по центру -->
+<div align="center">
+  <img src="./pretti-prettifun.gif" width="550" />
+  <br/>
+  <img src="./cooltext512192691817165.gif" height="80" />
+
+[![SoundCloud](./jane-remover-census-designated.gif)](https://on.soundcloud.com/GAqoGFH1rUrbcolnYS)
+
+</div>
