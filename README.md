@@ -22,7 +22,11 @@
   <img src="./pretti-prettifun.gif" width="550" />
   <br/>
   <img src="./cooltext512192691817165.gif" height="80" />
+  
+  <br/>
+  <h1 align="center">👇👇👇</h1>
+  <br/>
 
-[![SoundCloud](./jane-remover-census-designated.gif)](https://on.soundcloud.com/GAqoGFH1rUrbcolnYS)
+[![SoundCloud](./rap-soundcloud-rapper.gif)](https://on.soundcloud.com/GAqoGFH1rUrbcolnYS)
 
 </div>
