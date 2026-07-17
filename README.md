@@ -7,7 +7,7 @@
 
 <!-- Блок 2: lucy-bedroque-lucy -->
 <img src="./lucy-bedroque-lucy.gif" align="left" width="550" /> 
-<img src="./cooltext512192630859339.gif" height="80" />
+<img src="./cooltext512192630859339.gif" height="50" />
 
 <br clear="left"/><br/>
 
